@@ -14,7 +14,7 @@
 - [NahamCon CTF Writeup 2021 🐱‍💻](https://thefamasgame.medium.com/nahamcon-ctf-writeup-2021-f3a780ca980e)
 <!-- BLOG-POST-LIST:END -->
 
-## Contact me 
+## ⚡ Contact me 
 
 <p align="center">
     <a href="https://thefamasgame.medium.com/">
@@ -26,7 +26,4 @@
 </p>
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hritikhere/count.svg" />
-</p>
+
