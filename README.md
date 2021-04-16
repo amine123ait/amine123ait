@@ -9,8 +9,13 @@
 - 🥅 2021 Goals: Practice malware analysis
 - ⚡ Fun fact: I love to chill and play boxing :)) 
 
-## contact me 
-\
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [NahamCon CTF Writeup 2021 🐱‍💻](https://thefamasgame.medium.com/nahamcon-ctf-writeup-2021-f3a780ca980e)
+<!-- BLOG-POST-LIST:END -->
+
+## Contact me 
+
 <p align="center">
     <a href="https://thefamasgame.medium.com/">
     <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
