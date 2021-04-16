@@ -24,3 +24,9 @@
     <a href="https://discord.gg/rFC7u7VKc9">
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hritikhere/count.svg" />
+</p>
