@@ -25,5 +25,6 @@
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<iframe src="https://giphy.com/embed/KazG5bdau9pIqS90oj" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mr-robot-mrrobot-i-dont-know-how-to-talk-people-KazG5bdau9pIqS90oj">via GIPHY</a></p>
-
+<p align="center">
+<img src="https://media.giphy.com/media/KazG5bdau9pIqS90oj/giphy.gif">
+</p>
