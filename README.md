@@ -1,7 +1,7 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 ### Hi there, I'm Amin - aka [Mr_echo][http://echoctf.cf/] 👋
-*web site is currently down :((*
+*merch site soooon :))*
 
 ## I'm a student, Hacker, Developer, and Self learner!!
 
