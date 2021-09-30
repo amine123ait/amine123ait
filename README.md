@@ -1,4 +1,4 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center"><img  src="./my-gif.gif" alt="image here" /></p>
 
 ### Hi there, I'm Amin - aka [Mr_echo][http://echoctf.cf/] 👋
 *merch site soooon :))*
