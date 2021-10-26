@@ -3,11 +3,11 @@
 ### Hi there, I'm Amin - aka [Mr_echo][http://echoctf.cf/] 👋
 *merch site soooon :))*
 
-## I'm a student, Hacker, Developer, and Self learner!!
+## I'm a student, Pentester, Developer, and Self learner!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Practice malware analysis
-- ⚡ Fun fact: I love to chill and play boxing :)) 
+- 🥅 2022 Goals: surviving
+- ⚡ Fun fact: I love to chill and play boxing and gaming and ... :)
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
