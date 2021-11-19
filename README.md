@@ -1,13 +1,12 @@
 <p align="center"><img  src="./my-gif.gif" alt="image here" /></p>
 
-### Hi there, I'm Amin - aka [Mr_echo][http://echoctf.cf/] 👋
-*merch site soooon :))*
+### Hi there, I'm Amin - aka [Mr_echo][http://test.test/] 👋
+*portfolio soooon :))*
 
-## I'm a student, Pentester, Developer, and Self learner!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: surviving
-- ⚡ Fun fact: I love to chill and play boxing and gaming and ... :)
+- 🌱 I’m currently learning everything �
+- 🥅 2022 Goals: ..
+- ⚡ Quote: “Appear weak when you are strong, and strong when you are weak.” ― Sun Tzu, The Art of War
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
