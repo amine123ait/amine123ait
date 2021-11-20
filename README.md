@@ -1,10 +1,12 @@
 <p align="center"><img  src="./my-gif.gif" alt="image here" /></p>
 
-### Hi there, I'm Amin - aka [Mr_echo][http://test.test/] 👋
+### Hi there 👋
+
+I'm Amin - aka [Mr_echo] [http://test.test/] 
 *portfolio soooon :))*
 
 
-- 🌱 I’m currently learning everything �
+- 🌱 I’m currently 
 - 🥅 2022 Goals: ..
 - ⚡ Quote: “Appear weak when you are strong, and strong when you are weak.” ― Sun Tzu, The Art of War
 
