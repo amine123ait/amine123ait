@@ -6,9 +6,9 @@ I'm Amin - aka [Mr_echo] [http://test.test/]
 *portfolio soooon :))*
 
 
-- 🌱 I’m currently 
-- 🥅 2022 Goals: ..
-- ⚡ Quote: “Appear weak when you are strong, and strong when you are weak.” ― Sun Tzu, The Art of War
+- 🌱 I’m currently ███████
+- 🥅 2022 Goals: Lunch a startup company 
+- ⚡ Quote: “Guide Us To The Straight Path” – Surah Fatiha Ayat 6 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
