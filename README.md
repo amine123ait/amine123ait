@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-I'm Amin - aka [Mr_echo] [http://test.test/] 
-*portfolio soooon :))*
+I'm Amin - aka [Mr_echo](https://amine123ait.github.io/) 
+
 
 
 - 🌱 I’m currently ███████
