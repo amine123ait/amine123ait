@@ -7,7 +7,7 @@ I'm Amin - aka [Mr_echo](https://amine123ait.github.io/)
 
 
 - 🌱 I’m currently ███████
-- 🥅 2022 Goals: Lunch a startup company 
+- 🥅 2022 Goals: Open source startup
 - ⚡ Quote: “Guide Us To The Straight Path” – Surah Fatiha Ayat 6 
 
 ## 📕 Latest Blog Posts
