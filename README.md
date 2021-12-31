@@ -6,7 +6,7 @@ I'm Amin :) - aka [Mr_echo](https://amine123ait.github.io/)
 
 
 
-- 🌱 I’m currently studying physics that has nothing to do with ma career 
+- 🌱 I’m currently studying
 - 🥅 2022 Goals: Open source startup
 - ⚡ Quote: “Guide Us To The Straight Path” – Surah Fatiha Ayat 6 
 
