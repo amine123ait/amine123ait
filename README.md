@@ -1,6 +1,6 @@
 <p align="center"><img  src="./my-gif.gif" alt="image here" /></p>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hi there 
 
 I'm Amin :) - aka [Mr_echo](https://amine123ait.github.io/) 
 
