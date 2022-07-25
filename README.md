@@ -2,7 +2,7 @@
 
 ### Hi there 
 
-I'm Amin :) - aka [Mr_echo](https://amine123ait.github.io/) 
+I'm Amin :) - aka [Mr_echo](https://mrecho123.github.io/) 
 
 
 
