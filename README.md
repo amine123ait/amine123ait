@@ -31,3 +31,5 @@ I'm Amin :) - aka [Mr_echo](https://mrecho123.github.io/)
 <p align="center">
 <img src="https://media.giphy.com/media/pIBCeF0v9w3xyig9EA/giphy.gif">
 </p>
+
+![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)
