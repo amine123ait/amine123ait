@@ -7,7 +7,7 @@ I'm Amin :) - aka [Mr_echo](https://mrecho123.github.io/)
 
 
 - 🌱 I’m currently studying
-- 🥅 2022 Goals: Open source startup [▰▰▰▰▰▰▱▱▱▱▱▱▱ 49%	](https://github.com/amine123ait/bug_bounty)
+- 🥅 2023 Goals: Open source Security kit[▰▱▱▱▱▱▱▱▱▱▱▱▱ 0.1%](https://github.com/amine123ait/securekit)
 - ⚡ Quote: “Guide Us To The Straight Path” – Surah Fatiha Ayat 6 
 
 ## 📕 Latest Blog Posts
