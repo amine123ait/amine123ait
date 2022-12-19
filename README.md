@@ -29,7 +29,7 @@ I'm Amin :) - aka [Mr_echo](https://mrecho123.github.io/)
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/f8UasmQwh6XdPA4zhA/giphy-downsized-large.gif">
+<img src="https://media.giphy.com/media/IVWfNgCrKaTQ0X9zVB/giphy.gif">
 </p>
 
 
