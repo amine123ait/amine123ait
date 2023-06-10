@@ -23,8 +23,5 @@ I'm [Mr_echo](https://mrecho123.github.io/)
     <img src="https://img.shields.io/badge/pgp-0xD1C381399984AAB5-313131?style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/IVWfNgCrKaTQ0X9zVB/giphy.gif">
-</p>
 
 “Guide Us To The Straight Path” – Surah Fatiha Ayat 6 
