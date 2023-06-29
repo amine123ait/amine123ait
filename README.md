@@ -1,3 +1,5 @@
-<h1>Doing security research ...
+#.
+**Doing security research ...**
     
-“Guide Us To The Straight Path” – Surah Fatiha Ayat 6 
+
+*“Guide Us To The Straight Path” – Surah Fatiha Ayat 6* 
