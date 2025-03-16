@@ -1,5 +1,4 @@
-#.
-**Doing security research ...**
-    
+# Looking for a job 
+Open for full-time/part-time **Security Consultant** role **Remotely / In Europe  / Currently based in Austria - Vienna **
 
-*“Guide Us To The Straight Path” – Surah Fatiha Ayat 6* 
+ If you are a recruiter, please reach me at mrecho@wearehackerone.com.  I will send you my resume :)) 
