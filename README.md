@@ -1,7 +1,7 @@
-# Looking for a job 
-Open for full-time/part-time **Security Consultant** role **Remotely / In Europe  / Currently based in Austria - Vienna**
+# Open for employment
 
-Please reach me at mrecho@wearehackerone.com.  I will send you my resume :)) 
+Full-time/part-time **Security Consultant** role **Remotely / Worldwide  / Currently based in Austria - Vienna**
 
+Please reach me at mrecho@wearehackerone.com.
 
 <img src='my-gif.gif'>
