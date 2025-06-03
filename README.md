@@ -1,8 +1,7 @@
-# Open for employment
+# LEET 
+**Security Consultant**  -  Currently based in Austria - Vienna**
 
-Full-time/part-time **Security Consultant** role **Remotely / Worldwide  / Currently based in Austria - Vienna**
-
-Please reach me at mrecho@wearehackerone.com.
+Email: mrecho@wearehackerone.com.
 
 <img src='my-gif.gif'>
 <p align="center">
