@@ -1,7 +1,7 @@
 # LEET 
 **Security Consultant**  -  Currently based in Austria - Vienna**
 
-Email: mrecho@wearehackerone.com.
+Email: contact@indiesecurity.com .
 
 <img src='my-gif.gif'>
 <p align="center">
