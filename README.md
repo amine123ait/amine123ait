@@ -1,7 +1,5 @@
 # LEET 
-**Founder and CEO of Indiesecurity**  -  Currently based in Austria - Vienna <br>
-**HTB meetup host** - [Link](https://htbvienna.indiesecurity.com) <br>
-Email: contact@indiesecurity.com 
+
 
 <img src='my-gif.gif'>
 <p align="center">
